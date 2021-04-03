@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: gray;
+}
+
+.conatiner {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slick-dots li button:before {
+  font-size: 40px;
+}
+
+.box {
+  margin: 15px;
+  background-color: gray;
+}
